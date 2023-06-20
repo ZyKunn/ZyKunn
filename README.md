@@ -22,5 +22,9 @@
 - 📧  [814342838@qq.com](mailto:814342838@qq.com).
 <br>
 <br>
-<br/>  
+<br/>
+
+| <a href="https://github.com/ZyKunn"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ZyKunn&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="ZyKunn's github stats" /></a> | <a href="https://github.com/ZyKunn"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZyKunn&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 
