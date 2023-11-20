@@ -15,8 +15,8 @@
 
 - 🍒  A post-00s person who loves software development.
 - 📍    湖北(HB).
-- 👨‍🎓  Wust(Top-up).
-- 👩‍💻  3 years of work.
+- 👨‍🎓  Wuhan University of Science and Technology.
+- 👩‍💻 3 年之前 of work.
 - ❤   Programming, games, reading, traveling.
 - ⭐  back-end developer.
 - 📧  [814342838@qq.com](mailto:814342838@qq.com).
