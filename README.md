@@ -1,7 +1,7 @@
 <!-- 动态打字效果 -->
 <div align="center">
   <a href="https://zykunn.github.io/MyBlog/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=System.out.println(%22Hello+World!%22);;Backend+Developer;Coding+%7C+Gaming+%7C+Exploring+Tech" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&lines=System.out.println(%22Hello%20World~%22);" />
   </a>
 </div>
 
